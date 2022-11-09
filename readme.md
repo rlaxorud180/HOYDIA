@@ -1,271 +1,204 @@
-# HOYDIA  - 감성 페어와 공유하는 당신의 “요즈음”
+# 📙HOYDIA  - 감성 페어와 공유하는 당신의 “요즈음”📙
 
 ## ![Hoydia](readme.assets/Hoydia.png)
 
-## TEAM MEMBER
+## 👀 서비스 소개
 
-|  김현열  |  채민진  | 엄지용  | 신용하  |  김태경  |
-| :------: | :------: | :-----: | :-----: | :------: |
-|   INFJ   |   INFJ   |  INFP   |  INFP   |   ISTJ   |
-| Frontend | Frontend | Backend | Backend | Frontend |
+감성 페어와 공유하는 당신의 “요즈음”
+
+HOYDIA는 스페인어로 ''요즘''이라는 뜻입니다.
+
+HOYDIA(오이디아)는 친구 or 감성 페어와 사진, 음악, 내용을 일기에 작성하고 일기장 표지를 꾸미며 감성을 공유할 수 있는 웹 서비스입니다. 
+
+👉[HOYDIA 오이디아 배포 페이지](http://i7a103.p.ssafy.io:3000/)
+
+👉[팀 노션](https://www.notion.so/1-A103-Hoydia-708d77f2c8674f5e838f1f9f9219f8ab)
 
 
 
-## HOYDIA 링크 [HOYDIA](http://i7a103.p.ssafy.io:3000/)
+
+
+## 👨‍💻 개발 배경
+
+어린 시절 쓰던 교환 일기로부터 시작한 아이디어로 그때의 감성과 기억을 다시 살려보자는 의미에서 시작되었습니다.
+
+HOYDIA는 이러한 추억과 감성을 충족시켜주기 위해 탄생한 블로그 콘텐츠 기반 SNS입니다. 
+
+HOYDIA와 함께라면, 관심사가 비슷한 상대와 일기를 교환하면서 나와 맞는 감성 친구를 찾을 수 있습니다.
 
 
 
-## 프로젝트 진행 기간
 
-2022.07.05(월) ~ 2022.08.19(금)
+
+## 📅 프로젝트 진행 기간
+
+2022.07.05 ~ 2022.08.19 (6주)
 
 SSAFY 7기 2 학기 공통 프로젝트 - HOYDIA
 
 
 
-## 배경
 
-어린 시절 쓰던 교환 일기로부터 시작한 아이디어로 그때의 감성과 기억을 다시 살려보자는 의미에서 시작되었습니다.
 
-hoydia는 이러한 추억과 감성을 충족시켜주기 위해 탄생한 블로그 콘텐츠 기반 SNS입니다. 
+## 👨‍👨‍👦‍👦 팀원
 
-hoydia와 함께 라면, 관심사가 비슷한 상대와 일기를 교환하면서 나와 맞는 감성 친구를 찾을 수 있습니다.
+|  김현열  |  김태경  | 엄지용  | 신용하  |  채민진  |
+| :------: | :------: | :-----: | :-----: | :------: |
+| Frontend | Frontend | Backend | Backend | Frontend |
 
 
 
-## 개요
 
-감성 페어와 공유하는 당신의 “요즈음”
 
-hoydia는 스페인어로 요즘이라는 뜻입니다.
+## 🛠기술 스택
 
-hoydia는 친구 or 감성 페어와 사진, 음악, 내용을 일기에 작성하고 일기장 표지를 꾸미며 감성을 공유할 수 있는 웹 서비스입니다. 
+- Frontend
 
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">  <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 
 
-## 주요 기능
 
-- 매칭
-  - 친구의 코드를 기입하면 일기장 생성
-  - 오늘의 질문에 대한 답을 하고 매칭이 이뤄지며 상대방의 질문과 대답을 보고 서로 승인하면 매칭이 이뤄집니다.
+- Backend
 
-- 일기
-  - 제목, 내용을 자유롭게 작성해요.
-  - 일기에 어울리는 사진을 넣어보세요.
-  - 원하는 폰트를 골라서 작성해보세요.
-  - 일기 내용에 맞는 장소를 골라보세요.
-  - 일기에 어울리는 음악이 있다면 골라보세요.
-  - 혹시 전송하기 전 수정하고 싶다면 지우개를 눌러 수정해보세요.
-  - 표지를 꾸미고 싶다면 edit버튼을 눌러 꾸며보세요.
+  <img src="https://img.shields.io/badge/JAVA-FFCA28?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/Spring BOOT-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">    
 
-- 알림함
-  - 친구와 교환 일기가 만들어 졌다면 ''친구와 교환 일기 생성 완료''
-  - 상대방이 작성하고 일기를 전송했다면 "일기 교환 완료"
-  - 매칭이 성공했다면 "교환 일기 만들기 성공!"
 
-- 부가 기능
-  - 메인 페이지와 서랍장을 드래그 앤 드롭으로 자유롭게 이동이 가능합니다.
-  - 마이페이지를 통해 유저코드를 알 수 있고 닉네임이 수정 가능합니다.
 
+- CI/CD
 
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white">  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 
-## 주요 기술
 
-**Backend**
 
-- IntelliJ IDE
-- Springboot 2.6.3
-- Spring Data JPA
-- Spring Security
-- Spring Validation
-- Spring Web
-- QueryDSL
-- WebSocket
-- GCP 3.0.0
-- Swagger 3.0.0
-- MySQL
+- 협업 툴
 
-**Frontend**
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">  <img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white">  
 
-- Visual Studio Code IDE
-- React 18
 
-**CI/CD**
 
-- AWS EC2
-- NGINX
-- docker
 
 
+## 💻주요 기능
 
-## 프로젝트 파일 구조
+### 카카오톡 소셜 로그인/로그아웃
 
-### Back
+- 카카오톡을 통해 간편하게 회원가입 및 로그인이 가능합니다.
 
-```
-hoydia
-  ├── gradle
-  │   └── wrapper
-  ├── src
-  │   ├── main
-  │   │   └── java
-  │   │   │   └── com.ssafy.hoydia
-  │   │   │   │   ├── client
-  │   │   │   │   ├── config  
-  │   │   │   │   ├── controller
-  │   │   │   │   ├── domain
-  │   │   │   │   ├── dto
-  │   │   │   │   ├── exception
-  │   │   │   │   ├── repository
-  │   │   │   │   ├── service
-  │   │   │   │   ├── util
-  │   │   │   │   └── client
-  │   │   └── resources
-  │   └── test
-  ├── gitignore
-  ├── build.gradle
-  ├── gradlew.bat
-  └── settings.gradle
+  ![카카오톡 소셜 로그인](C:\Users\SSAFY\Desktop\readme.assets\로그인(카카오톡 소셜 로그인 ver) gif.gif)
 
-```
 
-### Front
 
-```
-FRONTEND
-  ├── node_modules
-  ├── public
-  └── src
-  │   ├── assets
-  │   ├── components
-  │   ├── images
-  │   ├── pages
-  │   ├── App
-  │   └── index
-  ├── env
-  ├── gitignore
-  ├── .prettierrc
-  ├── jsconfig
-  ├── package-lock
-  ├── package
-  └── README
-```
+- 이미  계정이 있는경우
 
-
-
-## 협업 툴
-
-- GIt
-- Notion
-- JIRA
-- MatterMost
-- Webex
-
-
-
-## 협업 환경
-
-- Gitlab
-  - 버전 관리
-  - 이슈 발행 해결
-  - MR시, 코드 리뷰를 진행
-- JIRA
-  - 매주 목표 량을 설정하여 Sprint 진행
-  - 업무 할당량을 Story point로 설정하고, In-progress => Done 순으로 작업
-- Notion
-  - 아침마다 scrum을 진행하고 회의가 있을 때마다 회의록에 기록
-  - 컨벤션 정리
-  - 문서 관리
-
-
-
-## 프로젝트 산출물
-
-- API
-- ERD
-- 프로토타입
-- 아키텍처
-- 컨벤션
-- 스토리보드
-
-
-
-## 시연 GIF 및 사진
-
-- 로그인
-
-  ![로그인](readme.assets/로그인.gif)
-
-  
-
-  
-
-- 감성 페어 찾기
-
-  ![감성 페어 찾기 gif](readme.assets/감성 페어 찾기 gif-16679796256149.gif)
-
-
-
-  ![감성 페어와 매칭 성공 모달](readme.assets/감성 페어와 매칭 성공 모달.png)
-
-
-
-
-
-- 친구와 일기 만들기
-
-  ![친구랑 일기 만들기 gif](readme.assets/친구랑 일기 만들기 gif.gif)
-
-  
-
-
-
-- 다이어리 작성
-
-  ![다이어리 작성 gif](readme.assets/다이어리 작성 gif.gif)
-
-  
-
-
-
-- 다이어리 꾸미기
-
-  ![다이어리 커버 꾸미기 gif](readme.assets/다이어리 커버 꾸미기 gif.gif)
-
-  
-
-
-
-- 다이어리 전송
-
-  ![다이어리 전송 gif](readme.assets/다이어리 전송 gif.gif)
-
-
-
-- 일기장 도착 알람
-
-  ![일기장 도착 알람](readme.assets/일기장 도착 알람.PNG)
-
-
-
-
-
-- 다이어리 드레그 앤 드롭
-
-  ![다이어리 드래그앤드롭 gif](readme.assets/다이어리 드래그앤드롭 gif.gif)
-
-
-
-
-
-- 마이페이지 닉네임 변경
-
-  ![마이페이지_닉네임 변경 gif](readme.assets/마이페이지_닉네임 변경 gif.gif)
-
-
+  ![이미 로그인한 경우 ver](C:\Users\SSAFY\Desktop\readme.assets\로그인(이미 로그인한 경우 ver) gif.gif)
 
 
 
 - 로그아웃
 
-  ![로그아웃 gif](readme.assets/로그아웃 gif.gif)
+  ![로그아웃](C:\Users\SSAFY\Desktop\readme.assets\로그아웃 gif.gif)
+
+
+
+
+
+### 매칭
+
+- 친구와 일기 작성
+
+  친구의 코드를 기입하면 알림함에 친구와 일기장이 생성 되었다는 알림이 뜨고 서랍에서 생성된 일기장을 확인할 수 있습니다. 새 일기장으로 친구와 일기를 써보세요!
+
+  ![\친구랑 일기 만들기](C:\Users\SSAFY\Desktop\readme.assets\친구랑 일기 만들기 gif.gif)
+
+
+
+- 감성 페어 찾기
+
+  오늘의 질문을 적어서 보내면 랜덤으로 상대방에게 전해집니다. 대답을 보고 서로 승인하고 매칭이 이뤄집니다. 질문의 답을 보고 나와 결이 맞는 감성페어를 찾아 교환일기를 시작해보세요!
+  질문은 매일매일 바뀝니다.✨
+  
+  ![감성 페어 찾기](C:\Users\SSAFY\Desktop\readme.assets\감성 페어 찾기 gif.gif)
+
+
+
+
+
+### 일기장
+
+- 일기 작성
+
+  원하는 폰트를 골라 내용을 작성하고 사진, 지도, 음악을 삽입할 수 있습니다.
+
+  책갈피의 세번째 버튼을 누르면 작성한 내용을 수정합니다.
+
+  오늘은 어디에 갔는지, 어떤 일이 있었는지, 어떤 음악의 기분인지 이미지, 지도 기능 등을 이용하여 오이디아에 기록하고 공유해보세요.
+
+  ![다이어리 작성](C:\Users\SSAFY\Desktop\readme.assets\다이어리 작성 gif.gif)
+
+
+
+- 일기장 표지 꾸미기 
+
+  책갈피의 마지막 버튼을 누르면 일기장 표지의 색상, 폰트 등을 커스텀 할 수 있습니다.
+
+  ![다이어리 커버 꾸미기](C:\Users\SSAFY\Desktop\readme.assets\다이어리 커버 꾸미기 gif.gif)
+
+- 일기장 전송
+
+  책갈피의 첫번째 버튼을 누르면 상대방에게 일기장이 전송됩니다.
+
+  ![다이어리 전송](C:\Users\SSAFY\Desktop\readme.assets\다이어리 전송 gif.gif)
+
+
+
+
+
+### 알림함
+
+- 친구와 교환 일기가 만들어 졌다면 ''친구와 교환 일기 생성 완료'' 라는 알람이 뜹니다.
+
+  
+
+- 상대방이  전송한 일기가 도착했다면 "일기장 도착" 알람이 도착합니다.
+
+  <img src="C:\Users\SSAFY\Desktop\readme.assets\일기장 도착 모달.png" style="zoom: 67%;" />
+
+  
+
+- 매칭이 성공했다면 "교환 일기 만들기 성공!" 알람이 도착합니다.
+
+  <img src="C:\Users\SSAFY\Desktop\readme.assets\매칭 성공 모달.png" style="zoom: 67%;" />
+
+
+
+
+
+### 부가 기능
+
+- 마이페이지
+
+  사용자의 정보와 유저코드를 알 수 있고 닉네임이 수정 가능합니다.
+
+  ![마이페이지_닉네임 변경](C:\Users\SSAFY\Desktop\readme.assets\마이페이지_닉네임 변경 gif.gif)
+
+
+
+- 일기장 이동
+
+  일기장을 드래그 앤 드롭으로 원하는 페이지로 이동할 수 있습니다.
+
+  ![다이어리 드래그앤드롭](C:\Users\SSAFY\Desktop\readme.assets\다이어리 드래그앤드롭 gif.gif)
+
+
+
+
+
+### 
+
+
+
+## 🎈 산출물 링크
+
+| [🎨와이어프레임](https://www.figma.com/file/862k6I37QBj2VbhGci50wR/Hoydia) | [⚙ERD](https://www.notion.so/9aa14614d0914ca49467fa2ca4acf384#21dda5b0fa05443985b7a931a7333cea) | [🎄파일구조](https://www.notion.so/9aa14614d0914ca49467fa2ca4acf384#6ff21faacc7b4c44b34b194f14b2d6db) | [🙌그라운드룰](https://www.notion.so/43bb0fecd9264eccbc26a7939ffdbe19) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+
