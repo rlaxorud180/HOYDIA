@@ -90,7 +90,7 @@ SSAFY 7기 2 학기 공통 프로젝트 - HOYDIA
 
 - 이미  계정이 있는경우
 
-  ![이미 로그인한 경우 ver](readme.assets/로그인(이미 로그인한 경우 ver) gif.gif)
+  ![이미 로그인한 경우 ver](readme.assets/로그인(이미 로그인한 경우 ver).gif)
 
 
 
