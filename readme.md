@@ -84,19 +84,19 @@ SSAFY 7기 2 학기 공통 프로젝트 - HOYDIA
 
 - 카카오톡을 통해 간편하게 회원가입 및 로그인이 가능합니다.
 
-  ![카카오톡 소셜 로그인](readme.assets/로그인(카카오톡 소셜 로그인 ver) gif-16679837455143.gif)
+  ![로그인(카카오톡 소셜 로그인 ver) gif](readme.assets/200845587-07e17325-726c-4ac4-b349-c44944eee940.gif)
 
 
 
 - 이미  계정이 있는경우
 
-  ![이미 로그인한 경우 ver](readme.assets/로그인(이미 로그인한 경우 ver).gif)
+  ![로그인(이미 로그인한 경우 ver)](readme.assets/200845520-76462d53-110a-4eae-aa9e-785a78ec6af1.gif)
 
 
 
 - 로그아웃
 
-  ![로그아웃](readme.assets/로그아웃 gif.gif)
+  ![로그아웃 gif](readme.assets/200845431-2e6ccdad-98f3-4e20-aaf4-b6fedc1a6623.gif)
 
 
 
@@ -133,7 +133,7 @@ SSAFY 7기 2 학기 공통 프로젝트 - HOYDIA
 
   오늘은 어디에 갔는지, 어떤 일이 있었는지, 어떤 음악의 기분인지 이미지, 지도 기능 등을 이용하여 오이디아에 기록하고 공유해보세요.
 
-  ![다이어리 작성](readme.assets/다이어리 작성 gif.gif)
+  ![다이어리 작성 gif](readme.assets/200845140-833723e7-2340-463d-85b1-38f7b5a5d0bb.gif)
 
 
 
@@ -141,13 +141,13 @@ SSAFY 7기 2 학기 공통 프로젝트 - HOYDIA
 
   책갈피의 마지막 버튼을 누르면 일기장 표지의 색상, 폰트 등을 커스텀 할 수 있습니다.
 
-  ![다이어리 커버 꾸미기](readme.assets/다이어리 커버 꾸미기 gif.gif)
+  ![다이어리 커버 꾸미기 gif](readme.assets/200845345-c8dffd09-cabb-4283-b0d0-c7878854ddb3.gif)
 
 - 일기장 전송
 
   책갈피의 첫번째 버튼을 누르면 상대방에게 일기장이 전송됩니다.
 
-  ![다이어리 전송](readme.assets/다이어리 전송 gif.gif)
+  ![다이어리 전송 gif](readme.assets/200845278-c9191505-8eae-4317-bdf6-4114b78a9095.gif)
 
 
 
@@ -179,7 +179,7 @@ SSAFY 7기 2 학기 공통 프로젝트 - HOYDIA
 
   사용자의 정보와 유저코드를 알 수 있고 닉네임이 수정 가능합니다.
 
-  ![마이페이지_닉네임 변경](readme.assets/마이페이지_닉네임 변경 gif.gif)
+  ![마이페이지_닉네임 변경 gif](readme.assets/200845697-61a1fbf5-588b-4935-b6e3-43c29484af38.gif)
 
 
 
