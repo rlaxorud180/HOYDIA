@@ -206,7 +206,7 @@ FRONTEND
 
 
 
-![감성 페어와 매칭 성공 모달](readme.assets/감성 페어와 매칭 성공 모달.png)
+  ![감성 페어와 매칭 성공 모달](readme.assets/감성 페어와 매칭 성공 모달.png)
 
 
 
