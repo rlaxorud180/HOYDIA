@@ -194,7 +194,7 @@ FRONTEND
 
 - 로그인
 
-  ![로그인(카카오톡 소셜 로그인 ver) gif](readme.assets/로그인(카카오톡 소셜 로그인 ver) gif.gif)
+  ![로그인](readme.assets/로그인.gif)
 
   
 
