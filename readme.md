@@ -84,19 +84,19 @@ SSAFY 7기 2 학기 공통 프로젝트 - HOYDIA
 
 - 카카오톡을 통해 간편하게 회원가입 및 로그인이 가능합니다.
 
-  ![카카오톡 소셜 로그인](readme.assets\로그인(카카오톡 소셜 로그인 ver) gif.gif)
+  ![카카오톡 소셜 로그인](readme.assets/로그인(카카오톡 소셜 로그인 ver) gif.gif)
 
 
 
 - 이미  계정이 있는경우
 
-  ![이미 로그인한 경우 ver](readme.assets\로그인(이미 로그인한 경우 ver) gif.gif)
+  ![이미 로그인한 경우 ver](readme.assets/로그인(이미 로그인한 경우 ver) gif.gif)
 
 
 
 - 로그아웃
 
-  ![로그아웃](readme.assets\로그아웃 gif.gif)
+  ![로그아웃](readme.assets/로그아웃 gif.gif)
 
 
 
@@ -108,7 +108,7 @@ SSAFY 7기 2 학기 공통 프로젝트 - HOYDIA
 
   친구의 코드를 기입하면 알림함에 친구와 일기장이 생성 되었다는 알림이 뜨고 서랍에서 생성된 일기장을 확인할 수 있습니다. 새 일기장으로 친구와 일기를 써보세요!
 
-  ![\친구랑 일기 만들기](readme.assets\친구랑 일기 만들기 gif.gif)
+  ![\친구랑 일기 만들기](readme.assets/친구랑 일기 만들기 gif.gif)
 
 
 
@@ -117,7 +117,7 @@ SSAFY 7기 2 학기 공통 프로젝트 - HOYDIA
   오늘의 질문을 적어서 보내면 랜덤으로 상대방에게 전해집니다. 대답을 보고 서로 승인하고 매칭이 이뤄집니다. 질문의 답을 보고 나와 결이 맞는 감성페어를 찾아 교환일기를 시작해보세요!
   질문은 매일매일 바뀝니다.✨
   
-  ![감성 페어 찾기](readme.assets\감성 페어 찾기 gif.gif)
+  ![감성 페어 찾기](readme.assets/감성 페어 찾기 gif.gif)
 
 
 
@@ -133,7 +133,7 @@ SSAFY 7기 2 학기 공통 프로젝트 - HOYDIA
 
   오늘은 어디에 갔는지, 어떤 일이 있었는지, 어떤 음악의 기분인지 이미지, 지도 기능 등을 이용하여 오이디아에 기록하고 공유해보세요.
 
-  ![다이어리 작성](readme.assets\다이어리 작성 gif.gif)
+  ![다이어리 작성](readme.assets/다이어리 작성 gif.gif)
 
 
 
@@ -141,13 +141,13 @@ SSAFY 7기 2 학기 공통 프로젝트 - HOYDIA
 
   책갈피의 마지막 버튼을 누르면 일기장 표지의 색상, 폰트 등을 커스텀 할 수 있습니다.
 
-  ![다이어리 커버 꾸미기](readme.assets\다이어리 커버 꾸미기 gif.gif)
+  ![다이어리 커버 꾸미기](readme.assets/다이어리 커버 꾸미기 gif.gif)
 
 - 일기장 전송
 
   책갈피의 첫번째 버튼을 누르면 상대방에게 일기장이 전송됩니다.
 
-  ![다이어리 전송](readme.assets\다이어리 전송 gif.gif)
+  ![다이어리 전송](readme.assets/다이어리 전송 gif.gif)
 
 
 
@@ -161,13 +161,13 @@ SSAFY 7기 2 학기 공통 프로젝트 - HOYDIA
 
 - 상대방이  전송한 일기가 도착했다면 "일기장 도착" 알람이 도착합니다.
 
-  <img src="readme.assets\일기장 도착 모달.png" style="zoom: 67%;" />
+  <img src="readme.assets/일기장 도착 모달.png" style="zoom: 67%;" />
 
   
 
 - 매칭이 성공했다면 "교환 일기 만들기 성공!" 알람이 도착합니다.
 
-  <img src="readme.assets\매칭 성공 모달.png" style="zoom: 67%;" />
+  <img src="readme.assets/매칭 성공 모달.png" style="zoom: 67%;" />
 
 
 
@@ -179,7 +179,7 @@ SSAFY 7기 2 학기 공통 프로젝트 - HOYDIA
 
   사용자의 정보와 유저코드를 알 수 있고 닉네임이 수정 가능합니다.
 
-  ![마이페이지_닉네임 변경](readme.assets\마이페이지_닉네임 변경 gif.gif)
+  ![마이페이지_닉네임 변경](readme.assets/마이페이지_닉네임 변경 gif.gif)
 
 
 
@@ -187,7 +187,7 @@ SSAFY 7기 2 학기 공통 프로젝트 - HOYDIA
 
   일기장을 드래그 앤 드롭으로 원하는 페이지로 이동할 수 있습니다.
 
-  ![다이어리 드래그앤드롭](readme.assets\다이어리 드래그앤드롭 gif.gif)
+  ![다이어리 드래그앤드롭](readme.assets/다이어리 드래그앤드롭 gif.gif)
 
 
 
